@@ -1,0 +1,4 @@
+[submodule "tinyusb"]
+	path = submodule/tinyusb
+	url = https://github.com/hathach/tinyusb.git
+	branch = master
